@@ -1,5 +1,4 @@
-# Manifesto for Human Authorship in Technology
-
+# Manifesto for Human Authorship in Technology(MHAT)
 **Author:** Nicholas Daily  
 **Date:** 03/30/2026
 
