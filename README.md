@@ -38,14 +38,14 @@ Our commitment is to remain in control of the software we ship. There are differ
 
 ---
 
-### Level 2 — Human Authorship [![MHAT: HUMAN-AUTHORED](https://img.shields.io/badge/MHAT-HUMAN--AUTHORED-yellow.svg)](https://github.com/NicholasDaily/manifesto-for-human-authorship-in-technology/)
+### Level 2 — Human Authorship [![MHAT: HUMAN-AUTHORED](https://img.shields.io/badge/MHAT-HUMAN--AUTHORED-blue.svg)](https://github.com/NicholasDaily/manifesto-for-human-authorship-in-technology/)
 
 - Code is written directly by human contributors
 - No generated code is committed
 
 ---
 
-### Level 3 — Minimal External Trust [![MHAT: MINIMAL-TRUST](https://img.shields.io/badge/MHAT-MINIMAL--TRUST-blue.svg)](https://github.com/NicholasDaily/manifesto-for-human-authorship-in-technology/)
+### Level 3 — Minimal External Trust [![MHAT: MINIMAL-TRUST](https://img.shields.io/badge/MHAT-MINIMAL--TRUST-yellow.svg)](https://github.com/NicholasDaily/manifesto-for-human-authorship-in-technology/)
 
 - Dependencies are intentionally limited and reviewed
 - Prefer internal implementations
