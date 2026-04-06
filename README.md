@@ -1,4 +1,4 @@
-# Manifesto for Human Authorship in Technology(MHAT)
+# Manifesto for Human Authorship in Technology (MHAT)
 **Author:** Nicholas Daily  
 **Date:** 03/30/2026
 
@@ -29,7 +29,7 @@ Our commitment is to remain in control of the software we ship. There are differ
 
 ---
 
-### Level 1 — Human Responsibility
+### Level 1 — Human Responsibility [![MHAT: TOOL-ASSISTED](https://img.shields.io/badge/MHAT-TOOL--ASSISTED-orange.svg)](https://github.com/NicholasDaily/manifesto-for-human-authorship-in-technology/)
 
 - Code introduced must be understood by its author
 - Code introduced behaves as expected within the system
@@ -38,21 +38,21 @@ Our commitment is to remain in control of the software we ship. There are differ
 
 ---
 
-### Level 2 — Human Authorship
+### Level 2 — Human Authorship [![MHAT: HUMAN-AUTHORED](https://img.shields.io/badge/MHAT-HUMAN--AUTHORED-yellow.svg)](https://github.com/NicholasDaily/manifesto-for-human-authorship-in-technology/)
 
 - Code is written directly by human contributors
 - No generated code is committed
 
 ---
 
-### Level 3 — Minimal External Trust
+### Level 3 — Minimal External Trust [![MHAT: MINIMAL-TRUST](https://img.shields.io/badge/MHAT-MINIMAL--TRUST-blue.svg)](https://github.com/NicholasDaily/manifesto-for-human-authorship-in-technology/)
 
 - Dependencies are intentionally limited and reviewed
 - Prefer internal implementations
 
 ---
 
-### Level 4 — Fully Self Reliant
+### Level 4 — Fully Self Reliant [![MHAT: SELF-RELIANT](https://img.shields.io/badge/MHAT-SELF--RELIANT-green.svg)](https://github.com/NicholasDaily/manifesto-for-human-authorship-in-technology/)
 
 - Core systems developed and maintained in-house
 - Near-zero external dependencies
